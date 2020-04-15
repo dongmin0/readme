@@ -8,18 +8,6 @@
 
 > 아침은 꼭 먹는 여행객들을 위한 조식 제공 숙소 추천 앱
 
-## Install
-
-```sh
-npm install
-```
-
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Jung zooon, Yee Seulgi, Yang dongmin**
