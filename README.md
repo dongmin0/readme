@@ -9,6 +9,7 @@
 > 아침은 꼭 먹는 여행객들을 위한 조식 제공 숙소 추천 앱
 
 # 특이점
+![initial](https://user-images.githubusercontent.com/36289683/79299484-22a25880-7f1f-11ea-8370-5c34fb685f14.png)
 
 
 ## Author
