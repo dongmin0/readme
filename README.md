@@ -26,8 +26,9 @@
 
   3) 하단부분
 <img width="368" alt="5" src="https://user-images.githubusercontent.com/36289683/79301046-731bb500-7f23-11ea-99f5-9494486160a4.png">
-  * 항목을 클릭하여 원하는 액션을 취할 수 있다.
+  * 항목을 선택하여 원하는 액션을 취할 수 있다.
 
+---
 
 ## Author
 
